@@ -5,4 +5,4 @@ This repository showcases hands-on projects I've created while progressing throu
 
 | Module                                         | Associated Project         | Skills Learned             |
 |-----------------------------------------------|----------------------------|----------------------------|
-| Module 1: Introduction      | <a href="https://github.com/BHelmss/Module_1:_EC2_Deployment_Proposal">EC2 Deployment Proposal Lab</a>| Cloud Deployment Model Selection, Service-to-use case mapping |
+| Module 1: Introduction      | <a href="https://github.com/BHelmss/Module_1_EC2_Deployment_Proposal">EC2 Deployment Proposal Lab</a>| Cloud Deployment Model Selection, Service-to-use case mapping |
