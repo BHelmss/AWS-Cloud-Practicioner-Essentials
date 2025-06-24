@@ -6,3 +6,4 @@ This repository showcases hands-on projects I've created while progressing throu
 | Module                                         | Associated Project         | Skills Learned             |
 |-----------------------------------------------|----------------------------|----------------------------|
 | Module 1: Introduction      | <a href="https://github.com/BHelmss/Module_1_EC2_Deployment_Proposal">EC2 Deployment Proposal Lab</a>| Cloud Deployment Model Selection, Service-to-use case mapping |
+| Module 2A: EC2 Computing        | <a href="https://github.com/BHelmss/Module_2A_EC2_Web_App"> EC2 Web App Hosting</a> | Instance Creation, Web App Hosting, Security Group Creation
