@@ -8,3 +8,4 @@ This repository showcases hands-on projects I've created while progressing throu
 | Module 1: Introduction      | <a href="https://github.com/BHelmss/Module_1_EC2_Deployment_Proposal">EC2 Deployment Proposal Lab</a>| Cloud Deployment Model Selection, Service-to-use case mapping |
 | Module 2A: EC2 Computing        | <a href="https://github.com/BHelmss/Module_2A_EC2_Web_App"> EC2 Web App Hosting</a> | Instance Creation, Web App Hosting, Security Group Creation
 | Module 2B: EC2 Serverless Computing | <a href="https://github.com/BHelmss/Module_2B_Lambda_SQS_Processor"> Lambda and SQS Processor | Lambda Functions, SQS Queue creation, IAM rules |
+| Module 3: Containerization | <a href="https://github.com/BHelmss/Module_3_Flask_App_ECS_Deployment"> Flask App ECS Deployment | ECS, ECR, AWS CLI, Containerization|
